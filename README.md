@@ -5,3 +5,6 @@ A machine learning scheme was developed utilizing a Boltzmann machine, which was
 The project included an exhaustive descriptive and visual analysis to deepen the understanding of both the data and the model’s performance. Furthermore, the original Boltzmann machine was enhanced by incorporating a Prior Distribution, allowing for an assessment of the Bayesian approach's efficacy compared to the initial model.
 
 In the final stages, upon achieving convergence with the Boltzmann Machines, a Monte Carlo sampling process was employed. This step was critical for evaluating the auto-correlation function of the samples, with a particular focus on its variation in response to changes in the number of observations and the waiting time.
+
+
+Analyses have been conducted using the Julia programming language and are presented in Jupythr Notebook format.
